@@ -1,0 +1,35 @@
+img {
+    width : 275px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px red;
+    background-color:rgb(22, 57, 22);
+    
+}
+.odd{
+    background-color: rgb(248, 194, 33);
+    border-radius: 10px;
+    
+    
+}
+#idName{
+    box-shadow: 10px 10px 10px;
+    
+}
+#idforImg{
+    background-color: rgb(162, 252, 5);
+}
+
+p {
+    width : 275px;
+    height: 500px;
+    overflow:auto;
+    display: inline-block;
+
+}
+h2{
+    width : 275px;
+    display: inline-block;
+}
+body{
+    background-color: rgb(92, 198, 247);
+}
